@@ -3,6 +3,9 @@
         "newthought":"نو",
         "epigraph":"سرنویس",
         "marginnote":"کنارنویس",//Margin Note
-        "cornerbackground":"گوش‌زمینه"// Corener Background
+        "cornerbackground":"گوش‌زمینه",// Corener Background
+        "cite":"گواه",
+        "bibliography":"گواهی‌ها",
+        "quote":"بازگفت"
     }
 }
