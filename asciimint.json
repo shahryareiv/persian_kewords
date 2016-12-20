@@ -6,6 +6,7 @@
         "cornerbackground":"گوش‌زمینه",// Corener Background
         "cite":"گواه",
         "bibliography":"گواهی‌ها",
-        "quote":"بازگفت"
+        "quote":"بازگفت",
+        "footnote":"پانویس"
     }
 }
