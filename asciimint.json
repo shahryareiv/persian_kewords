@@ -1,12 +1,42 @@
 {
     "asciimint":{
-        "newthought":"نو",
-        "epigraph":"سرنویس",
-        "marginnote":"کنارنویس",//Margin Note
-        "cornerbackground":"گوش‌زمینه",// Corener Background
-        "cite":"گواه",
+        "abstract":"چکیده",
+        "anchore":"لنگر",
+        "appendix":"پیوست",
         "bibliography":"گواهی‌ها",
+        "cite":"گواه",
+        "colophon":"انجامه",
+        "corner-background":"گوش‌زمینه",// Corener Background
+        "cross-insert":"جایگذار",
+        "data":"داده",
+        "dedication":"پیشکش",
+        "epigraph":"سردرنویس",
+        "example": "نمونه",        
+        "figure":"نمودار", //Image        
+        "footnote":"پانویس",
+        "glossary":"واژه‌نامه",
+        "ifdef":"اگربود",
+        "ifndef":"اگرنبود",
+        "image":"نگاره",
+        "include":"دربرگیر",
+        "keywords":"کلیدواژگان",
+        "layout":"چیدمان",
+        "name":"نام",
+        "newthought":"نو",
+        "options":"گزینه‌ها",
+        "position":"جای",
+        "preface":"پیشگفتار",
+        "pull-quote":"کنارگزیده",
         "quote":"بازگفت",
-        "footnote":"پانویس"
+        "render":"بنمای", //
+        "review":"بازبینی",
+        "review-add":"خرده‌افزا",
+        "review-del":"خرده‌زدا",
+        "review-sub":"خرده‌بجا",
+        "revision":"بازنوشت",
+        "side-figure":"کنارنمودار", // Side Figure, Side Image, Margin Figure, Margin Image
+        "side-note":"کنارنویس",//Side Note, Margin Note
+        "sides-ummary":"کنارچکیده",//Side Summary, Margin Summary
+        "type":"گونه"
     }
 }
