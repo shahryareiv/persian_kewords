@@ -1,0 +1,20 @@
+{
+    "asciidoc":{
+        "appendix": "پیوست",
+        "caution": "گوشزد",
+        "example": "نمونه",
+        "figure": "نمودار",
+        "important": "مهم",
+        "last-update": "آخرین به روز رسانی", 
+        "listing": "فهرست",
+        "manname": "نام",
+        "note": "یادداشت",
+        "preface": "پیشگفتار",
+        "table": "جدول",
+        "tip": "نکته",
+        "toc": "فهرست مطالب",
+        "untitled-label": "بی‌نام",
+        "version-label": "نگارش",
+        "warning": "هشدار"
+    }
+}

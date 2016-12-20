@@ -1,0 +1,8 @@
+{
+    "asciimint":{
+        "newthought":"نو",
+        "epigraph":"سرنویس",
+        "marginnote":"کنارنویس",//Margin Note
+        "cornerbackground":"گوش‌زمینه"// Corener Background
+    }
+}
