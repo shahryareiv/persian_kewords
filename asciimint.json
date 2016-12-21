@@ -1,42 +1,87 @@
 {
     "asciimint":{
         "abstract":"چکیده",
+        "acronym":"کوتاه‌نوشت",
+        "ac":"کوت",// acronym= ac, کوتاه‌نوشت=کوت
+        "acknowledgments":"سپاس‌گذاری",
         "anchore":"لنگر",
         "appendix":"پیوست",
-        "bibliography":"گواهی‌ها",
-        "cite":"گواه",
+        "article":"نوشتار", //And مقاله
+        "background":"پس‌زمینه",
+        "bibliography":"یادکردها", //And گواهی‌ها
+        "book":"کتاب",
+        "chapter":"فصل",
+        "chapter-caption":"فصل‌گزاره",
+        "cite":"یادکرد", //And گواه
+        "caption":"گزاره",
         "colophon":"انجامه",
-        "corner-background":"گوش‌زمینه",// Corener Background
+        "color":"رنگ",
+        "column":"ستون",
+        "copyright":"حق پخش",
+        "corner-background":"گوش‌زمینه",// 
         "cross-insert":"جایگذار",
         "data":"داده",
         "dedication":"پیشکش",
+        "editor":"سرویراستار",
+        "copy-editor":"ویراستار زبان",
+        "end-note":"پایان نویس",
         "epigraph":"سردرنویس",
         "example": "نمونه",        
         "figure":"نمودار", //Image        
         "footnote":"پانویس",
+        "form":"کاربرگه",
+        "formula":"ریختار",
+        "height":"بلندا",
         "glossary":"واژه‌نامه",
         "ifdef":"اگربود",
+        "ifeval":"اگرشد",
         "ifndef":"اگرنبود",
         "image":"نگاره",
+        "initial":"سرآغاز", //Lettrine
         "include":"دربرگیر",
+        "index":"نمایه",
+        "indexterm":"نماواژه",
+        "isnb":"شابک",
         "keywords":"کلیدواژگان",
         "layout":"چیدمان",
+        "label":"برچسب",
+        "link":"پیوند",
+        "lang":"زبان",
         "name":"نام",
         "newthought":"نو",
+        "nothing":"پوچ",
         "options":"گزینه‌ها",
+        "organisation":"سازمان",
+        "page":"صفحه",
+        "paragraph":"بند",
+        "portion":"دانگ",//And همهٔصفحه
+        "part":"بخش",
+        "part-caption":"بخش‌گزاره",
         "position":"جای",
         "preface":"پیشگفتار",
         "pull-quote":"کنارگزیده",
         "quote":"بازگفت",
-        "render":"بنمای", //
+        "reftext":"و‌ا‌نویس",
+        "render":"بنمای", //And بکش
         "review":"بازبینی",
+        "reviewer":"بازبیننده",
         "review-add":"خرده‌افزا",
         "review-del":"خرده‌زدا",
         "review-sub":"خرده‌بجا",
         "revision":"بازنوشت",
         "side-figure":"کنارنمودار", // Side Figure, Side Image, Margin Figure, Margin Image
         "side-note":"کنارنویس",//Side Note, Margin Note
-        "sides-ummary":"کنارچکیده",//Side Summary, Margin Summary
-        "type":"گونه"
+        "side-summary":"کنارچکیده",//Side Summary, Margin Summary
+        "slide":"برگه",
+        "slider":"برگه‌چرخان",
+        "subtitle":"زیرسرنویس",
+        "table":"جدول",
+        "theme":"بن‌مایه", //motif نقش‌مایه
+        "title":"سرنویس",
+        "title-short":"سرنویس‌کوتاه",
+        "toc":"فهرست",
+        //"transition-effect":"گذرمایه",
+        "type":"گونه",
+        "width":"پهنا"
     }
 }
