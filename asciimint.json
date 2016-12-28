@@ -1,5 +1,6 @@
 {
     "asciimint":{
+        ",":"،",
         "abstract":"چکیده",
         "acronym":"کوتاه‌نوشت",
         "ac":"کوت",// acronym= ac, کوتاه‌نوشت=کوت
@@ -23,10 +24,12 @@
         "data":"داده",
         "dedication":"پیشکش",
         "editor":"سرویراستار",
+        "en":"انگلیسی",
         "copy-editor":"ویراستار زبان",
         "end-note":"پایان نویس",
         "epigraph":"سردرنویس",
-        "example": "نمونه",        
+        "example": "نمونه",
+        "fa":"فارسی",   
         "figure":"نمودار", //Image        
         "footnote":"پانویس",
         "form":"کاربرگه",
@@ -71,7 +74,7 @@
         "revision":"بازنوشت",
         "side-figure":"کنارنمودار", // Side Figure, Side Image, Margin Figure, Margin Image
         "side-note":"کنارنویس",//Side Note, Margin Note
-        "side-summary":"کنارچکیده",//Side Summary, Margin Summary
+        "side-summary":"کنارزبده",//Side Summary, Margin Summary
         "slide":"برگه",
         "slider":"برگه‌چرخان",
         "subtitle":"زیرسرنویس",

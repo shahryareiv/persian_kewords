@@ -1,5 +1,6 @@
 {
     "asciidoc":{
+        //standard
         "appendix": "پیوست",
         "caution": "گوشزد",
         "example": "نمونه",
@@ -15,6 +16,85 @@
         "toc": "فهرست مطالب",
         "untitled-label": "بی‌نام",
         "version-label": "نگارش",
-        "warning": "هشدار"
+        "warning": "هشدار",
+        //For possible future usages
+        ",":"،",
+        "abstract":"چکیده",
+        "acronym":"کوتاه‌نوشت",
+        "acknowledgments":"سپاس‌گذاری",
+        "anchore":"لنگر",
+        "article":"نوشتار", //And مقاله
+        "background":"پس‌زمینه",
+        "bibliography":"یادکردها", //And گواهی‌ها
+        "book":"کتاب",
+        "chapter":"فصل",
+        "cite":"یادکرد", //And گواه
+        "caption":"گزاره",
+        "colophon":"انجامه",
+        "color":"رنگ",
+        "column":"ستون",
+        "copyright":"حق پخش",// And حق نشر
+        "data":"داده",
+        "dedication":"پیشکش",
+        "editor":"سرویراستار",
+        "en":"انگلیسی",
+        "end-note":"پایان نویس",
+        "epigraph":"سردرنویس",
+        "example": "نمونه",
+        "fa":"فارسی",   
+        "figure":"نمودار", //Image        
+        "footnote":"پانویس",
+        "form":"کاربرگه",
+        "formula":"ریختار",
+        "height":"بلندا",
+        "glossary":"واژه‌نامه",
+        "ifdef":"اگربود",
+        "ifeval":"اگرشد",
+        "ifndef":"اگرنبود",
+        "image":"تصویر",
+        "initial":"سرآغاز", //Lettrine
+        "include":"دربرگیر",
+        "index":"نمایه",
+        "indexterm":"نماواژه",
+        "isnb":"شابک",
+        "keywords":"کلیدواژگان",
+        "layout":"چیدمان",
+        "label":"برچسب",
+        "link":"پیوند",
+        "lang":"زبان",
+        "name":"نام",
+        "newthought":"نو",
+        "nothing":"پوچ",
+        "options":"گزینه‌ها",
+        "organisation":"سازمان",
+        "page":"صفحه",
+        "paragraph":"بند",
+        "part":"بخش",
+        "position":"جای",
+        "preface":"پیشگفتار",
+        "pull-quote":"کنارگزیده",
+        "quote":"بازگفت",
+        "reftext":"و‌ا‌نویس",
+        "render":"بنمای", //And بکش
+        "review":"بازبینی",
+        "reviewer":"بازبیننده",
+        "review-add":"خرده‌افزا",
+        "review-del":"خرده‌زدا",
+        "review-sub":"خرده‌بجا",
+        "revision":"بازنوشت",
+        "side-figure":"کنارنمودار", // Side Figure, Side Image, Margin Figure, Margin Image
+        "side-note":"کنارنویس",//Side Note, Margin Note
+        "side-summary":"کنارزبده",//Side Summary, Margin Summary
+        "slide":"برگه",
+        "slider":"برگه‌چرخان",
+        "subtitle":"زیرسرنویس",
+        "table":"جدول",
+        "theme":"بن‌مایه", //motif نقش‌مایه
+        "title":"سرنویس",
+        "title-short":"سرنویس‌کوتاه",
+        "toc":"فهرست",
+        "transition-effect":"گذرمایه",
+        "type":"گونه",
+        "width":"پهنا"        
     }
 }
